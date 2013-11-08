@@ -1,0 +1,217 @@
+<root>
+    <style> .excelText { mso-number-format:General;text-align:general;white-space:normal;mso-spacerun: yes; } </style> 
+    <style> .excelText2 { mso-number-format:\@; } </style>
+    <style> .excelShortDate{ mso-number-format:"Short Date"; white-space:normal; } </style> 
+    <style> .excelHeader { background:#F7680A; white-space:nowrap; color:white; font-weight: normal; } </style> 
+    <style> .excelCurrency { mso-number-format:Currency; } </style> 
+    <style> .excelNumber0Dec { mso-number-format:"0"; } </style> 
+    <style> .excelNumber2Dec { mso-number-format: Fixed; } </style> 
+    <style> .excelTime { mso-number-format:"hh.mm.ss" } </style> 
+    <table align="center" cellspacing="0" cellpadding="2" border="1">
+        <tr>
+            <td border="1" style="background-color:#ff6600; color:#ffffff; text-align:center;">Data contabile</td>
+            <td border="1" style="background-color:#ff6600; color:#ffffff; text-align:center;">Data valuta</td>
+            <td border="1" style="background-color:#ff6600; color:#ffffff;">Causale</td>
+            <td border="1" style="background-color:#ff6600; color:#ffffff;">Descrizione operazione</td>
+            <td border="1" style="background-color:#ff6600; color:#ffffff;">Importo</td>
+        </tr>
+        <tr>
+            <td border="1">14/05/2012</td>
+            <td border="1">14/05/2012</td>
+            <td border="1">GIRO DA/VERSO MIEI CONTI</td>
+            <td border="1">switch</td>
+            <td class="excelCurrency" border="1">&euro; -600,00</td>
+        </tr>
+        <tr>
+            <td border="1">08/05/2012</td>
+            <td border="1">08/05/2012</td>
+            <td border="1">ACCR. STIPENDIO-PENSIONE</td>
+            <td border="1">BONIFICO   N. 08578/68330/12802079708                         DATA ORDINE 07.05.2012 C.F. IT9876543219876543219876543 O/C OCCHIO DI QUI,QUO E QUA NOTE: ACCONTO SU STIPENDIO DIC.</td>
+            <td class="excelCurrency" border="1">&euro; 557,00</td>
+        </tr>
+        <tr>
+            <td border="1">08/03/2012</td>
+            <td border="1">08/03/2012</td>
+            <td border="1">VS.DISPOSIZIONE</td>
+            <td border="1">BONIFICO DA VOI DISPOSTO NOP 58334423203 A FAVORE DI MARIO ROSSI C. BENEF. IT1234567891234567891234567 NOTE: GIROCONTO</td>
+            <td class="excelCurrency" border="1">&euro; -1.000,00</td>
+        </tr>
+        <tr>
+            <td border="1">07/03/2012</td>
+            <td border="1">07/03/2012</td>
+            <td border="1">ACCR. STIPENDIO-PENSIONE</td>
+            <td border="1">BONIFICO   N. 02008/67750/92602934507                         DATA ORDINE 06.03.2012 C.F. IT4561237894561237894531264 O/C OCCHIO DI QUI, QUO, NOTE: ACCREDITO STIPENDIO GENNAIO</td>
+            <td class="excelCurrency" border="1">&euro; 1.014,39</td>
+        </tr>
+        <tr>
+            <td border="1">06/01/2012</td>
+            <td border="1">06/01/2012</td>
+            <td border="1">GIRO DA/VERSO MIEI CONTI</td>
+            <td border="1">GIRO da CCA 0130037</td>
+            <td class="excelCurrency" border="1">&euro; -1.580,00</td>
+        </tr>
+        <tr>
+            <td border="1">04/01/2012</td>
+            <td border="1">31/12/2011</td>
+            <td border="1">BOLLI GOVERNATIVI</td>
+            <td border="1"></td>
+            <td class="excelCurrency" border="1">&euro; -8,55</td>
+        </tr>
+        <tr>
+            <td border="1">04/01/2012</td>
+            <td border="1">31/12/2011</td>
+            <td border="1">STORNO BOLLI GOVERNATIVI</td>
+            <td border="1"></td>
+            <td class="excelCurrency" border="1">&euro; 8,55</td>
+        </tr>
+        <tr>
+            <td border="1">29/12/2011</td>
+            <td border="1">29/12/2011</td>
+            <td border="1">ACCR. STIPENDIO-PENSIONE</td>
+            <td border="1">BONIFICO   N. 02008/67750/94872591608                         DATA ORDINE 28.12.2011 C.F. IT4561237894561237894531264 O/C OCCHIO DI QUI, QUO, NOTE: STIPENDIO ROSSI NOVEMBRE</td>
+            <td class="excelCurrency" border="1">&euro; 1.558,00</td>
+        </tr>
+        <tr>
+            <td border="1">09/12/2011</td>
+            <td border="1">09/12/2011</td>
+            <td border="1">GIRO DA/VERSO MIEI CONTI</td>
+            <td border="1">GIRO da CCA 0130037</td>
+            <td class="excelCurrency" border="1">&euro; -1.550,00</td>
+        </tr>
+        <tr>
+            <td border="1">05/12/2011</td>
+            <td border="1">05/12/2011</td>
+            <td border="1">ACCR. STIPENDIO-PENSIONE</td>
+            <td border="1">BONIFICO   N. 05748/13313/89225496201                         DATA ORDINE 02.12.2011 C.F. IT45612378945245765894531264 O/C OCCHIO DI QUI, QUO NOTE: PAGAMENTO STIPENDIO OTTOBRE</td>
+            <td class="excelCurrency" border="1">&euro; 961,00</td>
+        </tr>
+        <tr>
+            <td border="1">05/12/2011</td>
+            <td border="1">05/12/2011</td>
+            <td border="1">ACCR. STIPENDIO-PENSIONE</td>
+            <td border="1">BONIFICO   N. 05748/13313/89225496100                         DATA ORDINE 02.12.2011 C.F. IT45612378945245765894531264 O/C OCCHIO DI QUI, QUO NOTE: PAGAMENTO STIPENDIO OTTOBRE</td>
+            <td class="excelCurrency" border="1">&euro; 600,00</td>
+        </tr>
+        <tr>
+            <td border="1">23/11/2011</td>
+            <td border="1">23/11/2011</td>
+            <td border="1">VS.DISPOSIZIONE</td>
+            <td border="1">BONIFICO DA VOI DISPOSTO NOP 58862610300 A FAVORE DI PSK WIEN LOUISE SIBOURD PSK WIEN C. BENEF. AT806000000001595040 NOTE: DEPOSIT FOR APARTMENT 773410 FROM 2812 TO 0201</td>
+            <td class="excelCurrency" border="1">&euro; -180,00</td>
+        </tr>
+        <tr>
+            <td border="1">22/11/2011</td>
+            <td border="1">22/11/2011</td>
+            <td border="1">GIRO DA/VERSO MIEI CONTI</td>
+            <td border="1">GIRO da CA 123456789</td>
+            <td class="excelCurrency" border="1">&euro; 180,00</td>
+        </tr>
+        <tr>
+            <td border="1">08/11/2011</td>
+            <td border="1">08/11/2011</td>
+            <td border="1">GIRO DA/VERSO MIEI CONTI</td>
+            <td border="1">GIRO da CCA 0130037</td>
+            <td class="excelCurrency" border="1">&euro; -1.500,00</td>
+        </tr>
+        <tr>
+            <td border="1">04/11/2011</td>
+            <td border="1">04/11/2011</td>
+            <td border="1">ACCR. STIPENDIO-PENSIONE</td>
+            <td border="1">BONIFICO   N. 05748/13313/89219139302                         DATA ORDINE 03.11.2011 C.F. IT45612378945245765894531264 O/C OCCHIO DI QUI, QUO NOTE: PAGAMENTO STIPENDIO</td>
+            <td class="excelCurrency" border="1">&euro; 1.515,00</td>
+        </tr>
+        <tr>
+            <td colspan="5" border="0"></td>
+        </tr>
+        <tr>
+            <td colspan="5" border="1">
+                <b>Consultazioni:</b>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="5" border="1">Nella tabella vedi elencate le operazioni dal 04/11/2011 al 14/05/2012</td>
+        </tr>
+        <tr>
+            <td colspan="5" border="0"></td>
+        </tr>
+        <tr>
+            <td colspan="5" border="1">
+                <b>Conto Corrente Arancio n.:</b> 130037
+            </td>
+        </tr>
+        <tr>
+            <td colspan="5" border="1">
+                <b>IBAN:</b> IT74M0316901600CC0010130037
+            </td>
+        </tr>
+        <tr>
+            <td colspan="5" border="1">
+                <b>Intestazione:</b> MARIO ROSSI
+            </td>
+        </tr>
+        <tr>
+            <td colspan="5" border="1"></td>
+        </tr>
+        <tr>
+            <td colspan="5" border="1">
+                <b>Saldo contabile al</b> 02/06/2012 26,65 &euro;
+            </td>
+        </tr>
+        <tr>
+            <td colspan="5" border="1"></td>
+        </tr>
+        <tr>
+            <td colspan="5" border="1">
+                <b>Saldo disponibile al</b> 02/06/2012 26,65 &euro;
+            </td>
+        </tr>
+        <tr>
+            <td colspan="5" border="1"></td>
+        </tr>
+        <tr>
+            <td colspan="5" border="1">
+                <b>Legenda:</b>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="5" border="1">
+                <b>Data contabile:</b>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="5" border="1">
+                <small>Giorno in cui un'operazione viene registrata sul Conto.</small>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="5" border="1">
+                <b>Data valuta:</b>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="5" border="1">
+                <small>Giorno dal quale iniziano a maturare gli interessi.</small>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="5" border="1">
+                <b>Saldo contabile:</b>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="5" border="1">
+                <small>Importo registrato sul tuo Conto Corrente Arancio.</small>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="5" border="1">
+                <b>Saldo disponibile:</b>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="5" border="1">
+                <small>E' il saldo calcolato sommando o sottraendo dal saldo contabile tutte le operazioni ancora in corso sul tuo Conto Corrente Arancio.</small>
+            </td>
+        </tr>
+    </table>
+</root>
