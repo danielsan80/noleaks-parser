@@ -1,0 +1,9 @@
+/vendor/
+/composer.phar
+/nbproject/
+/app/phpunit.xml
+
+/.rsync_cache
+*~
+
+!*.gitkeep

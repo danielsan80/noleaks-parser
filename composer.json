@@ -1,0 +1,13 @@
+{
+    "name": "dan/noleak-parser",
+    "description": "The Parser component of Noleaks",
+    "autoload": {
+        "psr-0": {
+            "": "src/"
+        }
+    },
+    "require": {
+        "php": ">=5.3.3",
+    },
+    "minimum-stability": "dev"
+}
